@@ -26,7 +26,7 @@ Follow the steps below to set up the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/terdoo-mzer/medium-clone
+git clone https://github.com/terdoo-mzer/medium-clone.git
 cd your-repo
 ```
 
